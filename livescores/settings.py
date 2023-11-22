@@ -27,7 +27,8 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     'django_htmx',
     'django_extensions',
-    'scores'
+    'scores',
+
 ]
 
 MIDDLEWARE = [
